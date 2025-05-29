@@ -392,7 +392,7 @@ function App() {
         <div>
           <h3>Ganesh</h3>
           <p>Data Science</p>
-          <span className="time">About 3 hours ago</span>
+          <span className="time">About 2 hours ago</span>
         </div>
       </div>
 
@@ -401,7 +401,7 @@ function App() {
         <div>
           <h3>Hemlata</h3>
           <p>Data Analytics Certificate</p>
-          <span className="time">About 3 hours ago</span>
+          <span className="time">About 1 hours ago</span>
         </div>
       </div>
 
@@ -410,7 +410,7 @@ function App() {
         <div>
           <h3>Neelam</h3>
           <p>Cloud Computing</p>
-          <span className="time">About 3 hours ago</span>
+          <span className="time">About 50 minutes ago</span>
         </div>
       </div>
 
@@ -419,7 +419,7 @@ function App() {
         <div>
           <h3>Aman</h3>
           <p>AI/ML Certificate</p>
-          <span className="time">About 3 hours ago</span>
+          <span className="time">About 45 minutes ago</span>
         </div>
       </div>
 
@@ -428,7 +428,7 @@ function App() {
         <div>
           <h3>Charlie Devis</h3>
           <p>Cyber Security Certificate</p>
-          <span className="time">About 3 hours ago</span>
+          <span className="time">About 44 minutes ago</span>
         </div>
       </div>
 
@@ -437,7 +437,7 @@ function App() {
         <div>
           <h3>Anupam</h3>
           <p>Linux Certificate</p>
-          <span className="time">About 3 hours ago</span>
+          <span className="time">About 41 minutes ago</span>
         </div>
       </div>
 
@@ -445,8 +445,8 @@ function App() {
         <div className="icon">&#x1F3C6;</div>
         <div>
           <h3>Smith</h3>
-          <p>Data Analysis Certificate</p>
-          <span className="time">About 3 hours ago</span>
+          <p>Data Analytics Certificate</p>
+          <span className="time">About 40 minutes ago</span>
         </div>
       </div>
 
@@ -454,8 +454,8 @@ function App() {
         <div className="icon">&#x1F3C6;</div>
         <div>
           <h3>Bob</h3>
-          <p>earned Data Analysis Certificate</p>
-          <span className="time">About 3 hours ago</span>
+          <p>Fullstack Webdevlopment Certificate</p>
+          <span className="time">About 35 minutes ago</span>
         </div>
       </div>
 
@@ -463,17 +463,17 @@ function App() {
         <div className="icon">&#x1F3C6;</div>
         <div>
           <h3>Bobith</h3>
-          <p>earned Data Analysis Certificate</p>
-          <span className="time">About 3 hours ago</span>
+          <p>SaaS Certificate</p>
+          <span className="time">About 30 minutes ago</span>
         </div>
       </div>
 
       <div className="activity-card yellow">
         <div className="icon">&#x1F3C6;</div>
         <div>
-          <h3>obSmith</h3>
-          <p>earned Data Analysis Certificate</p>
-          <span className="time">About 3 hours ago</span>
+          <h3>ObSmith</h3>
+          <p>Cloud Computing Certificate</p>
+          <span className="time">About 10 minutes ago</span>
         </div>
       </div>
 
@@ -481,8 +481,8 @@ function App() {
         <div className="icon">&#x1F3C6;</div>
         <div>
           <h3>Boby</h3>
-          <p>earned Data Analysis Certificate</p>
-          <span className="time">About 3 hours ago</span>
+          <p>Complete Data Analysis Module</p>
+          <span className="time">About 2 minutes ago</span>
         </div>
       </div>
     </div>
@@ -522,7 +522,7 @@ function App() {
         <div className="quick-icon blue">&#x1F465;</div>
         <div>
           <h3>Remove a Student</h3>
-          <p>Register & nroll students</p>
+          <p>Remove or Delete students</p>
         </div>
       </div>
 
@@ -530,33 +530,33 @@ function App() {
         <div className="quick-icon blue">&#x1F465;</div>
         <div>
           <h3>Black List a Student</h3>
-          <p>Register & enroll students</p>
+          <p>Restrict students</p>
         </div>
       </div>
 
       <div className="quick-card blue">
         <div className="quick-icon blue">&#x1F465;</div>
         <div>
-          <h3>Add New Student</h3>
-          <p>Register & enroll students</p>
+          <h3>Categorise Students</h3>
+          <p>Add Students</p>
         </div>
       </div>
 
-      <div className="quick-card blue">
+      {/* <div className="quick-card blue">
         <div className="quick-icon blue">&#x1F465;</div>
         <div>
           <h3>Add New Student</h3>
           <p>Register & enroll students</p>
         </div>
-      </div>
+      </div> */}
 
-      <div className="quick-card blue">
+      {/* <div className="quick-card blue">
         <div className="quick-icon blue">&#x1F465;</div>
         <div>
           <h3>Add New Student</h3>
           <p>Register & enroll students</p>
         </div>
-      </div>
+      </div> */}
     </div>
       </div>
 
