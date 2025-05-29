@@ -541,22 +541,6 @@ function App() {
           <p>Add Students</p>
         </div>
       </div>
-
-      {/* <div className="quick-card blue">
-        <div className="quick-icon blue">&#x1F465;</div>
-        <div>
-          <h3>Add New Student</h3>
-          <p>Register & enroll students</p>
-        </div>
-      </div> */}
-
-      {/* <div className="quick-card blue">
-        <div className="quick-icon blue">&#x1F465;</div>
-        <div>
-          <h3>Add New Student</h3>
-          <p>Register & enroll students</p>
-        </div>
-      </div> */}
     </div>
       </div>
 
