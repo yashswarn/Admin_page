@@ -108,20 +108,28 @@ body{
   display: flex;
 }
 
-.top_performer,.progress_tracker{
+.top_performer{
   margin-top: 50px;
   margin-left: 65px;
   width: 40%;
-  height: 1350px;
   background-color: white;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   padding-bottom: 50px;
   margin-bottom: 50px;
+  min-height: 600px;
 }
 
 .progress_tracker{
-  height: 1550px;
+  margin-top: 50px;
+  margin-left: 65px;
+  width: 40%;
+  background-color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+  min-height: 400px;
 }
 
 .top_performer_heading{
@@ -156,7 +164,7 @@ body{
   height: 150px;
   background-color: rgb(235, 255, 204);
   width: 90%;
-  margin-left: 20px;
+  margin-left: 27px;
   margin-top: 50px;
   border-radius: 10px;
   border: 2px solid green;
@@ -210,6 +218,7 @@ body{
   color: white;
   border-radius: 12px;
   background-color: white;
+  /* height: 350px; */
 }
 
 .recent-activity .header {
@@ -296,11 +305,13 @@ body{
 }
 
 .quick-actions {
-  flex: 1;
+  /* flex: 1;
   display: flex;
   flex-direction: column;
   gap: 30px;
-  background-color: white;
+  background-color: white; */
+
+  margin-top: -40px;
 }
 
 .quick-actions .header {
